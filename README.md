@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Haresh007
-- 👀 I’m interested in FrontEnd Developer and Data Analysis
-- 🌱 I’m currently learning JavaScript and ReactJS
+- 👋 Hi, I’m @Haresh_Vishwa_M
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Machine Learning Algorithms and Web Scraping
 - 📫 How to reach me : harish.vishwa3@gmail.com
 
 <!---
