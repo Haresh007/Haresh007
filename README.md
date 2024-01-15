@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Haresh_Vishwa_M
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Machine Learning Algorithms and Web Scraping
-- 📫 How to reach me : harish.vishwa3@gmail.com
+- 📁 Portfolio: https://hareshvishwa09.wixsite.com/portfolio
+- 📫 How to reach me: harish.vishwa3@gmail.com
 
 <!---
 Haresh007/Haresh007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
